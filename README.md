@@ -12,10 +12,7 @@
 
 ---
 
-## CMS Backend (WordPress)
-**Admin URL:** [https://mofire.clan.co.ke/wp-admin](https://mofire.clan.co.ke/wp-admin)  
-**Username:** Admin  
-**Password:** G0ndwanaland!  
+
 
 ---
 
